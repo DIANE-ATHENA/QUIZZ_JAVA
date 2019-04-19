@@ -1,0 +1,10 @@
+Q : Quelless âge à tu?
+B : 28ansss
+B : 35anss
+F : 25ansss
+F : 15ansss
+Q : Quelle âge as tu?
+B : 28ans
+F : 25ans
+F : 35ans
+F : 15ans

@@ -1,0 +1,50 @@
+Q : Quel impacteur a permis de créer la Lune ?
+B : Théia
+F : Andromède
+F : Atlan
+F : Thanos
+Q : Pourquoi Pluton n'est plus considérée comme étant une planète ? 
+B : parce qu'elle est en binôme
+B : parce qu'elle est passée dans la catégorie des planètes naines
+F : parce qu'on a découvert qu'elle n'était pas dans notre système solaire
+F : parce que c'est une planète tellurique
+Q : Qu'est-ce qu'un pulsar ? 
+B : une étoile en train de mourir
+B : un astre qui émet des sons
+B : un astre composé principalement de neutrons
+F : une sorte de trou noir
+Q : Que brûle principalement le Soleil ? 
+B : hydrogène
+F : hélium
+F : carbone
+F : dioxygène
+Q : Io est :
+B : une lune de Jupiter
+B : il y pleut du dioxyde de soufre
+B : à peu près de la même taille que notre Lune
+F : est principalement composée d'uranium 235
+Q : Que dit la théorie des jumeaux ? 
+B : que le jumeau parti dans l'espace veillira moins vite que celui resté sur Terre
+B : qu'il y a une différence de temporalité entre l'espace et la Terre
+F : que le jumeau resté sur Terre vieillira moins vite que celui parti dans l'espace
+F : qu'il n'y a pas de différence de temporalité entre l'espace et la Terre
+Q : La lumière de la Terre à la Lune met de :
+B : 1,2 à 1,35 seconde
+F : 2,03 à 3.88 secondes
+F : 0.77 à 1.04 secondes
+F : 2.54 à 4.02 secondes
+Q : Le Grand collisionneur de hadrons au C.E.R.N. 
+B : fait ~27km de circonférence
+B : a pour vocation d'apporter des réponses quant à la physique des particules et la cosmologie
+B : les protons s'y déplacent à 2,7m/s de moins que la vitesse de la lumière
+F : a infirmé l'existence du Boson de Higgs en 2012
+Q : Un astéroïde : 
+B : est une planète mineure
+B : est composé de roches, de métaux et de glaces
+F : un aérocroiseur est un astéroïde qui est proche de l'orbite de la Terre
+F : sa composition est déterminée dans l'espace par un spectre électromagnétique 
+Q : Le S.E.T.I. : 
+B : a pour but de détecter l'existence de civilisations extraterrestres avancées
+B : des particuliers sur leur ordinateur grâce au logiciel SETI@Home y contribuent
+F : Carl SAGAN s'est insurgé contre
+F : a depuis 2009 arrêté ses recherches

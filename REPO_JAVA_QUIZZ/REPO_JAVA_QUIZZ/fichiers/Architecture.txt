@@ -1,0 +1,52 @@
+Q : La grande pyramide de Gizeh : 
+B : est la pyramide de Khéops
+B : on y trouve PI et le nombre d'or
+F : est à degrés
+F : uniquement en blocs de calcaire
+Q : La Tour Eiffel :
+B : est peinte en trois couleurs
+B : a servi à des expériences scientifiques
+F : enjoua les Français dès le début
+F : est en fer minéral
+Q : Sacsayhuamán (au Pérou) est :
+B : une forteresse inca
+B : une construction antisismique
+F : une forteresse olmèque
+F : une construction hydrophobe
+Q : Une porte tambour :
+B : sas limitant les échanges d'air interne et externe
+B : il y en a une au Burj al-Arab
+B : créée en 1888
+F : emblématique des saloons
+Q : Les Latrines sont :
+B : des toilettes
+F : les premières vitrines de magasins
+F : des bureaux de chefs d'Etat
+F : des passages souterrains
+Q : Le Taj Mahal est :
+B : un mausolée
+F : un temple
+F : un palais de réception
+F : un château
+Q : Le site de Pétra (Jordanie) :
+B : fut une cité
+B : a directement été taillé dans la roche
+B : a abrité jusqu'à 25 000 habitants
+F : fut construit tout de calcaire et de grès
+Q : La chaux est un matériau : 
+B : utilisé depuis ~9000/8000 ans av J.-C.
+B : qui a donné son nom à la roche "calcaire"
+B : réduit l'humidité et évite la condensation
+F : accroît l'humidité et favorise la condensation
+Q : Les lignes de Nazca : 
+B : sont des géoglyphes
+B : sont composées d'environ 800 figures
+F : servaient aux sacrifices humains
+F : furent réalisées en ~1200 ap J.-C.
+Q : Les caravelles possèdent :
+B : des voiles latines
+B : une coque haute et un fond plat
+F : une coque haute et un fond concave
+F : une coque haute et un fond convexe
+ 
+

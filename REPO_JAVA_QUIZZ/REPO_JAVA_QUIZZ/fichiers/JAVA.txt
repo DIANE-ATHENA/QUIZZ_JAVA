@@ -1,0 +1,50 @@
+Q : En langage Java : 
+B : tout est objet
+B : on utilise des constructeurs
+F : seules les classes privées sont objets
+F : il n'y a pas de classe abstraite
+Q : IHM est l'acronyme de : 
+B : Interface Homme-Machine
+F : Interface for High Modeling
+F : Internal Height's Model
+F : Infernal Hardware Machine
+Q : JVM est l'acronyme de : 
+B : Java Virtual Machine
+F : Java Visual Machine
+F : Java Vectorial Moving
+F : Java Validity Manifest
+Q : Le langage Java a été créé par :
+B : James GOSLING
+B : Patrick NAUGHTON
+F : Bill JOY
+F : John McCARTHY 
+Q : En Java il y a : 
+B : de l'héritage
+B : du polymorphisme
+B : de la sérialisation
+F : des chicken 
+Q : L'origine du nom Java est lié au fait que :
+B : "java" en argot américain signifie "café"
+F : l'un des employés dansait la java
+F : la femme d'un employé était Javanaise
+F : un employé avait un chat appelé Java   
+Q : Le Garbage Collector : 
+B : signifie "ramasse-miettes"
+B : permet de libérer de la mémoire
+F : signifie "collectionneur-entreposeur"
+F : créé des zones de stockage pour les collections 
+Q : Qu'est-ce qui renvoie un booléen en Java ? 
+B : ==
+B : !=
+F : =
+F : !==
+Q : ORM :
+B : signifie Object-Relational Mapping
+B : convertit données relationnelles <=> objets
+B : convertit objets <=> données relationnelles
+F : signifie Objectual Relation Mapping 
+Q : Les logiciels en Java sont : 
+B : facilement portables sur différents OS
+B : s'adaptent aux OS avec peu ou pas de modifications
+F : dépendants de Microsoft
+F : non portables sur Unix 

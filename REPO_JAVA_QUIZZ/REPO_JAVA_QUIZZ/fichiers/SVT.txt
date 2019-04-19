@@ -1,0 +1,50 @@
+Q : L'ARN est :
+B : l'acronyme d'acide ribonucléique
+B : comme un décodeur de l'ADN pour la création des cellules
+F : un produit marqueur injecté lors des IRM
+F : un composant du Blue Star
+Q : La gaine de myéline est : 
+B : une gaine qui isole et protège les fibres nerveuses
+F : une gaine qui isole et protège les veines 
+F : une couche de l'épiderme
+F : une membrane dans le cerveau
+Q : La lyse est : 
+B : la destruction des cellules
+B : un diminutif d'hydrolyse
+F : la circulation de la moëlle épinière
+F : une maladie de peau
+Q : Un protée est : 
+B : un amphibien qui vit dans des cavernes
+B : de couleur blanche dans l'obscurité
+B : peut changer de couleur
+F : de couleur blanche à la lumière
+Q : Les pieuvres : 
+B : possèdent neuf cerveaux
+B : possèdent trois coeurs
+F : possèdent un double cristallin
+F : possèdent deux becs pour se nourrir
+Q : Le tableau périodique des éléments :
+B : est aussi appelé tableau de Mendeleïev
+B : contient 118 éléments chimiques
+F : est aussi appelé tableau de Kaspeïev
+F : contient 94 éléments chimiques
+Q : Le ligre est : 
+B : un félin issu d'une tigresse et d'un lion
+F : une plante grimpante 
+F : un composé chimique mortel
+F : un instrument de mesure
+Q : Le taux d'albedo ou albédo est : 
+B : le taux de réfractation de la lumière 
+F : le taux de densité d'une roche
+F : le taux de densité d'un métal
+F : le taux de lipides d'un organisme 
+Q : La géodésie mesure et représente : 
+B : la surface terrestre
+B : le champ de pesanteur extérieur de la Terre
+B : le champ de pesanteur des fonds océaniques
+F : les pics de pollution 
+Q : L'héliotropisme est : 
+B : l'attraction et mouvement vers le Soleil des plantes
+B : l'attraction humaine vers des régions ensoleillées
+F : un tropique du Soleil
+F : le centre du Soleil

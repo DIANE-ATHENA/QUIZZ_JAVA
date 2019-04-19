@@ -1,0 +1,50 @@
+Q : Nikola TESLA (1856-1943) : 
+B : fut le pionnier du courant alternatif
+B : avait une mémoire éidétique
+F : fut le pionnier du courant continu
+F : avait une mémoire perceptive
+Q : Alan TURING (1912-1954) fut : 
+B : mathématicien et cryptologue
+B : un pionnier de l'informatique
+B : un pionnier de l'intelligence artificielle
+F : mathématicien et physicien
+Q : Anne BOLEYN (~1500-1536) fut :
+B : cause du protestantisme de l'Angleterre
+B : accusée d'inceste avec son frère
+F : élevée à la cour d'Espagne
+F : accusée de sorcellerie 
+Q : Roland GARROS (1888-1918) fut :
+B : un aviateur français
+B : prisonnier de guerre
+F : un tennisman français
+F : espion pendant la guerre
+Q : CALIGULA (12-41) : 
+B : son nom signifie "petite sandale"
+B : il mena au début une politique libérale
+F : fut un esclave devenu empereur
+F : comparé à un dieu pour sa beauté
+Q : Alphonse Gabriel CAPONE (1899-1947) : 
+B : a fait fortune durant la prohibition de l'alcool
+F : est issu d'une famille monoparentale
+F : s'est installé à Los Angeles
+F : est mort assassiné
+Q : Gengis KHAN (~1155/1162-1227) :
+B : fondateur du plus vaste empire continu
+B : a établi des lois en faveur des femmes
+F : prend Pékin en 1215 et y entre triomphalement
+F : est issu d'une famille populaire
+Q : Marie CURIE (1867-1934) fut : 
+B : la seule femme ayant reçu 2 prix Nobel
+B : née en Pologne
+F : née en France
+F : professeure à Oxford
+Q : Antoine de St-EXUPERY (1900-1944) fut :
+B : aviateur français
+F : auteur de bandes dessinées
+F : mort dans un accident de voiture
+F : un élève brillant 
+Q : Vlad III BASARAB (1431-1476) : 
+B : passa une partie de sa jeunesse captif
+B : est associé à l'empalement
+F : buvait le sang de ses ennemis
+F : mangeait le coeur de ses ennemis
